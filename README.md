@@ -8,3 +8,6 @@ The first recipe, Swedish Meatballs, can be found here
 https://www.allrecipes.com/recipe/216564/swedish-meatballs-svenska-kottbullar/
 The second recipe, Homemade Lasagna, can be found here
 https://www.allrecipes.com/recipe/19344/homemade-lasagna/
+
+Chicken Tikka Masala
+https://www.allrecipes.com/recipe/45736/chicken-tikka-masala/
