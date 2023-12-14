@@ -3,3 +3,6 @@
 As the first project in the Odin Project, this website will be a simple HTML page with a few recipes I found around the web.
 
 This is supposed to test out some basic HTML skills. Links, tags, elements. 
+
+The first recipe, Swedish Meatballs, can be found here
+https://www.allrecipes.com/recipe/216564/swedish-meatballs-svenska-kottbullar/
