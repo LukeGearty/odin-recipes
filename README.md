@@ -10,4 +10,4 @@ The second recipe, Homemade Lasagna, can be found here
 https://www.allrecipes.com/recipe/19344/homemade-lasagna/
 
 Chicken Tikka Masala
-https://www.allrecipes.com/recipe/45736/chicken-tikka-masala/
+https://www.allrecipes.com/recipe/45736/chicken-tikka-masala/ogle
